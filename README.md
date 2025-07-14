@@ -36,5 +36,5 @@ To run this project, follow these steps:
 
 **Note:** make sure you have a DIALux project created and that the corresponding path and name are indicated.
 
-For more details, read the corresponding paper.
+For more details, read the corresponding paper `Documentation.pdf`.
  
