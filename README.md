@@ -31,9 +31,10 @@ To run this project, follow these steps:
 3. Install required Python packages:
 `pip install -r requirements.txt`
 4. Run the main simulation script:
-`python experiments.py` - to run a grid search over the three algorithms (BO, SAMO-COBRA, PSO)
-`python nows_experiments.py` - to run a grid search over the algorithms without a warm start / can also be used for the enhancement of PSO
-Note: make sure you have a DIALux project created and that the corresponding path and name are indicated.
+`python experiments.py`: to run a grid search over the three algorithms (BO, SAMO-COBRA, PSO)
+`python nows_experiments.py`: to run a grid search over the algorithms without a warm start / can also be used for the enhancement of PSO
+
+**Note:** make sure you have a DIALux project created and that the corresponding path and name are indicated.
 
 For more details, read the corresponding paper.
  
